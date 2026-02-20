@@ -420,3 +420,5 @@ module.exports = class QuestCompleter {
         }
     }
 };
+
+// made by zeffy >.<
