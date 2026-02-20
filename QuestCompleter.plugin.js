@@ -2,8 +2,9 @@
  * @name QuestCompleter
  * @author zef
  * @description Adds a Quest Completer button to complete any active tasks.
- * @version 1.5.1
- * @source https://github.com
+ * @version 1.5.2
+ * @source https://github.com/VZefoq/Discord-Quest-Completer
+ * @updateUrl https://raw.githubusercontent.com/VZefoq/Discord-Quest-Completer/main/QuestCompleter.plugin.js
  */
 
 module.exports = class QuestCompleter {
